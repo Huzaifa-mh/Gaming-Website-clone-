@@ -1,12 +1,77 @@
-# React + Vite
+🕹️ Gaming Website Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive Gaming Website Clone built using React.js, Tailwind CSS, and GSAP animations.
+This project replicates a gaming-themed website to explore frontend development, smooth transitions, and interactive design.
 
-Currently, two official plugins are available:
+🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔗 View the Website
 
-## Expanding the ESLint configuration
+🧠 About the Project
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+This project was created to sharpen my frontend skills and dive deeper into React animations using GSAP.
+The goal was to recreate a visually engaging UI with a clean structure and responsive layout.
+
+🧩 Tech Stack
+Category	Technologies
+Frontend	React.js, JavaScript (ES6+)
+Styling	Tailwind CSS
+Animations	GSAP (GreenSock Animation Platform)
+Deployment	Netlify
+⚙️ Features
+
+✅ Fully responsive layout for all devices
+✅ Smooth and fluid GSAP animations
+✅ Modern UI with Tailwind components
+✅ Organized folder structure
+✅ Fast performance and optimized build
+
+🖼️ Screenshots
+
+(Add images here — example below)
+
+
+
+
+📂 How to Run Locally
+
+Follow these steps to run the project on your local machine:
+
+# Clone the repository
+git clone https://github.com/Huzaifa-mh/Gaming-Website-clone.git
+
+# Navigate to the project folder
+cd Gaming-Website-clone
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm start
+
+
+Now open http://localhost:3000
+ to view it in your browser 🚀
+
+💡 What I Learned
+
+Creating smooth page transitions and animations with GSAP
+
+Using Tailwind CSS to build responsive layouts efficiently
+
+Structuring React components and managing state
+
+Hosting and deploying React apps on Netlify
+
+🧑‍💻 Author
+
+Muhammad Huzaifa
+📍 Full Stack Developer | ASP.NET Core | React.js | SQL Server
+🔗 LinkedIn Profile
+
+🔗 Portfolio Website
+
+⭐ Feedback
+
+If you liked this project, please consider giving it a ⭐ on GitHub!
+Your support motivates me to keep building and learning. 🙌
