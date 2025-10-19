@@ -26,12 +26,6 @@ Deployment	Netlify
 ✅ Organized folder structure
 ✅ Fast performance and optimized build
 
-🖼️ Screenshots
-
-(Add images here — example below)
-
-
-
 
 📂 How to Run Locally
 
