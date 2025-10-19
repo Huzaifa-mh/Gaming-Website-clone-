@@ -1,40 +1,59 @@
-🕹️ Gaming Website Clone
+<h1 align="center">🎮 Gaming Website Clone</h1>
 
-A modern, responsive Gaming Website Clone built using React.js, Tailwind CSS, and GSAP animations.
-This project replicates a gaming-themed website to explore frontend development, smooth transitions, and interactive design.
+<p align="center">
+  A modern and responsive gaming-themed website built using 
+  <b>React.js</b>, <b>Tailwind CSS</b>, and <b>GSAP animations</b>.  
+  This project helped me explore smooth UI transitions, creative design, and frontend performance.
+</p>
 
-🚀 Live Demo
+---
 
-🔗 View the Website
+## 🚀 Live Demo  
+🔗 [View Website](https://muhammad-huzaifa-gamingwebsite.netlify.app/)  
+📂 [GitHub Repository](https://github.com/Huzaifa-mh/Gaming-Website-clone)
 
-🧠 About the Project
+---
 
-This project was created to sharpen my frontend skills and dive deeper into React animations using GSAP.
-The goal was to recreate a visually engaging UI with a clean structure and responsive layout.
+## 🧩 Tech Stack  
 
-🧩 Tech Stack
-Category	Technologies
-Frontend	React.js, JavaScript (ES6+)
-Styling	Tailwind CSS
-Animations	GSAP (GreenSock Animation Platform)
-Deployment	Netlify
-⚙️ Features
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css,netlify,github" />
+</p>
 
-✅ Fully responsive layout for all devices
-✅ Smooth and fluid GSAP animations
-✅ Modern UI with Tailwind components
-✅ Organized folder structure
-✅ Fast performance and optimized build
+- ⚛️ **React.js** – Component-based UI  
+- 🎨 **Tailwind CSS** – Utility-first responsive styling  
+- 🌀 **GSAP (GreenSock Animation Platform)** – Smooth, high-performance animations  
+- 🌐 **Netlify** – Fast and easy deployment  
+
+---
+
+## ✨ Features  
+
+✅ Fully responsive layout (desktop, tablet, mobile)  
+✅ Smooth GSAP animations and transitions  
+✅ Modern and minimal UI  
+✅ Clean folder structure  
+✅ Optimized build with Netlify deployment  
+
+---
 
 
-📂 How to Run Locally
+## 🧠 What I Learned  
 
-Follow these steps to run the project on your local machine:
+- Creating interactive animations using **GSAP**  
+- Structuring React components efficiently  
+- Styling with **Tailwind CSS** for responsiveness  
+- Deploying React apps on **Netlify**  
 
+---
+
+## ⚙️ Run Locally  
+
+```bash
 # Clone the repository
 git clone https://github.com/Huzaifa-mh/Gaming-Website-clone.git
 
-# Navigate to the project folder
+# Navigate to the folder
 cd Gaming-Website-clone
 
 # Install dependencies
@@ -42,30 +61,3 @@ npm install
 
 # Start the development server
 npm start
-
-
-Now open http://localhost:3000
- to view it in your browser 🚀
-
-💡 What I Learned
-
-Creating smooth page transitions and animations with GSAP
-
-Using Tailwind CSS to build responsive layouts efficiently
-
-Structuring React components and managing state
-
-Hosting and deploying React apps on Netlify
-
-🧑‍💻 Author
-
-Muhammad Huzaifa
-📍 Full Stack Developer | ASP.NET Core | React.js | SQL Server
-🔗 LinkedIn Profile
-
-🔗 Portfolio Website
-
-⭐ Feedback
-
-If you liked this project, please consider giving it a ⭐ on GitHub!
-Your support motivates me to keep building and learning. 🙌
