@@ -10,7 +10,6 @@
 
 ## 🚀 Live Demo  
 🔗 [View Website](https://muhammad-huzaifa-gamingwebsite.netlify.app/)  
-📂 [GitHub Repository](https://github.com/Huzaifa-mh/Gaming-Website-clone)
 
 ---
 
